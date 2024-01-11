@@ -2,7 +2,7 @@
 
 ## build_dart_bins
 
-- [bin/build_dart_bins.dart](bin/build_dart_bins.dart)]
+- [bin/build_dart_bins.dart](bin/build_dart_bins.dart)
 
 Build with exe file for input pub package name
 
